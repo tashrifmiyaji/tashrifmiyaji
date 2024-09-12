@@ -24,10 +24,10 @@
       <thead>
         <tr>
           <th><a href="https://www.python.org/" target="_blank"><img src="./img/python.svg" alt="python" style="width:100px"></a></th>
-          <th><a href="https://www.javascript.com/" target="_blank"><img src="./img/javaScript.svg" alt="javaScript" style="width:100px;"></a></th>
+          <th><a href="https://www.javascript.com/" target="_blank"><img src="./img/javascript.svg" alt="javaScript" style="width:100px;"></a></th>
           <th><a href="https://html.com/" target="_blank"><img src="./img/html.svg" alt="html" style="width:100px;"></a></th>
           <th><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="./img/css.svg" alt="css" style="width:100px;"></a></th>
-          <th><a href="https://tailwindcss.com/" target="_blank"><img src="./img/tailwind-css.svg" alt="
+          <th><a href="https://tailwindcss.com/" target="_blank"><img src="./img/tailwindCss.svg" alt="
     Tailwind CSS" style="width:100px"></a></th>
         </tr>
       </thead>
@@ -46,8 +46,8 @@
   <table>
     <thead>
       <tr>
-        <th><a href="https://nodejs.org/en" target="_blank"><img src="./img/node-js.svg" alt="node.js" style="width:100px"></a></th>
-        <th><a href="https://expressjs.com/" target="_blank"><img src="./img/express-js.svg" alt="express.js" style="width:100px"></a></th>
+        <th><a href="https://nodejs.org/en" target="_blank"><img src="./img/Node.js.svg" alt="node.js" style="width:100px"></a></th>
+        <th><a href="https://expressjs.com/" target="_blank"><img src="./img/express.png" alt="express.js" style="width:100px"></a></th>
         <th><a href="https://www.mongodb.com/" target="_blank"><img src="./img/mongodb.svg" alt="mongodb" style="width:100px"></a></th>
         <th><a href="https://www.json.org/json-en.html" target="_blank"><img src="./img/json.svg" alt="json" style="width:100px"></a></th>
       </tr>

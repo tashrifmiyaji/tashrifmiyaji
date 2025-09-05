@@ -27,8 +27,6 @@
           <th><a href="https://www.javascript.com/" target="_blank"><img src="./img/javascript.svg" alt="javaScript" style="width:100px;"></a></th>
           <th><a href="https://html.com/" target="_blank"><img src="./img/html.svg" alt="html" style="width:100px;"></a></th>
           <th><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="./img/css.svg" alt="css" style="width:100px;"></a></th>
-          <th><a href="https://tailwindcss.com/" target="_blank"><img src="./img/tailwindCss.svg" alt="
-    Tailwind CSS" style="width:100px"></a></th>
         </tr>
       </thead>
       <tbody>
@@ -37,7 +35,23 @@
           <td>javaScript</td>
           <td>HTML</td>
           <td>CSS</td>
-          <td>Tailwind Css</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <div style="text-align: center; font-weight: bold;">
+    <table>
+      <thead>
+        <tr>
+        <th><a href="https://tailwindcss.com/" target="_blank"><img src="./img/tailwindCss.svg" alt="
+    Tailwind CSS" style="width:100px"></a></th>
+          <th><a href="https://react.dev/" target="_blank"><img src="./img/React.svg" alt="html" style="width:100px;"></a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+         <td>Tailwind Css</td>
+          <td>React</td>
         </tr>
       </tbody>
     </table>
@@ -79,7 +93,7 @@
       <tr>
         <td>git</td>
         <td>HitHub</td>
-        <td>Excel</td>
+        <td>MS Excel</td>
       </tr>
     </tbody>
   </table>

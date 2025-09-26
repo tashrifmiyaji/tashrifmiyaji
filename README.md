@@ -63,7 +63,7 @@
         <th><a href="https://nodejs.org/en" target="_blank"><img src="./img/Node.js.svg" alt="node.js" style="width:100px"></a></th>
         <th><a href="https://expressjs.com/" target="_blank"><img src="./img/express.png" alt="express.js" style="width:100px"></a></th>
         <th><a href="https://www.mongodb.com/" target="_blank"><img src="./img/mongodb.svg" alt="mongodb" style="width:100px"></a></th>
-        <th><a href="https://www.json.org/json-en.html" target="_blank"><img src="./img/json.svg" alt="json" style="width:100px"></a></th>
+        <th><a href="https://socket.io/" target="_blank"><img src="./img/socket.png" alt="socket" style="width:100px"></a></th>
       </tr>
     </thead>
     <tbody>
@@ -71,6 +71,20 @@
         <td>Node.js</td>
         <td>Express.js</td>
         <td>MongoDB</td>
+        <td>Socket</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  <div style="text-align: center; font-weight: bold;">
+  <table>
+    <thead>
+      <tr>
+        <th><a href="https://www.json.org/json-en.html" target="_blank"><img src="./img/json.svg" alt="json" style="width:100px"></a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
         <td>JSON</td>
       </tr>
     </tbody>

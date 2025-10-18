@@ -17,6 +17,7 @@
   <br/>
   <br/>
 
+---
 * <h3>👨🏽‍💻 &nbsp; My Skills</h3>
       <br/>
     <div style="text-align: center; font-weight: bold;">
@@ -91,7 +92,8 @@
   </table>
   </div>
   <br/>
-
+  
+---
 * <h3>👨🏽‍💻 &nbsp; Other Skills</h3>
   <br/>
   <div style="text-align: center; font-weight: bold;">
@@ -113,3 +115,37 @@
   </table>
   </div>
  <br/>
+ 
+ ## 🌐 Connect With Me
+ <p align="left">
+   <a href="mailto:tashrifmiyaji.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tashrifmiyaji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/tashrifmiyaji" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/tashrifmiyaji" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+--- 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tashrifmiyaji&show_icons=true&theme=radical" alt="Tashrif's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tashrifmiyaji&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashrifmiyaji&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+

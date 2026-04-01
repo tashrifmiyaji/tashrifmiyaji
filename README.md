@@ -1,151 +1,109 @@
-<h1 align="center"> <i> Hi i'm Tashrif Ahmad </i> </h1>
-<hr/>
+<h1 align="center">Hi 👋, I'm Tashrif Miyaji</h1>
+<h3 align="center">🚀 MERN Stack & Next.js Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tashrifmiyaji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for Tashrif Miyaji" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashrifmiyaji&label=Profile%20views&color=green&style=plastic" alt="tashrif-miyaji" /> </p>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👨‍🏫 &nbsp; About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m a passionate Mern Stack Developer.
+- 💻 I build modern, scalable, and user-friendly web applications
+- ⚡ Focused on performance, clean architecture, and great UX
+- 🔧 Working mainly with React.js, Next.js, Node.js, Express.js, and MongoDB
+- 🤖 I also use AI tools to optimize workflow and ship faster
+- 💼 Open to freelance and remote collaboration opportunities
 
-- 🌱 I’m currently learning **MERN Stack**
+I enjoy solving real-world problems with practical and impactful products.
+Consistency, problem-solving, and continuous improvement are the core principles of my work.
 
-- 💬 **I am currently learning MERN Stack. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React js, Node js, Express js and MongoDB. I utilize different  AI tools to learn faster and write better code for a website within less time for better output. I am also consistent with my learning because I believe consistency makes us perfect in our daily work and helps us get a better position.git **
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+<br/>
 
 ---
-* <h3>👨🏽‍💻 &nbsp; My Skills</h3>
-      <br/>
-    <div style="text-align: center; font-weight: bold;">
-    <table>
-      <thead>
-        <tr>
-          <th><a href="https://www.python.org/" target="_blank"><img src="./img/python.svg" alt="python" style="width:100px"></a></th>
-          <th><a href="https://www.javascript.com/" target="_blank"><img src="./img/javascript.svg" alt="javaScript" style="width:100px;"></a></th>
-          <th><a href="https://html.com/" target="_blank"><img src="./img/html.svg" alt="html" style="width:100px;"></a></th>
-          <th><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="./img/css.svg" alt="css" style="width:100px;"></a></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>python</td>
-          <td>javaScript</td>
-          <td>HTML</td>
-          <td>CSS</td>
-        </tr>
-      </tbody>
-    </table>
-    </div>
-    <div style="text-align: center; font-weight: bold;">
-    <table>
-      <thead>
-        <tr>
-        <th><a href="https://tailwindcss.com/" target="_blank"><img src="./img/tailwindCss.svg" alt="
-    Tailwind CSS" style="width:100px"></a></th>
-          <th><a href="https://react.dev/" target="_blank"><img src="./img/React.svg" alt="html" style="width:100px;"></a></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-         <td>Tailwind Css</td>
-          <td>React</td>
-        </tr>
-      </tbody>
-    </table>
-    </div>
-  <div style="text-align: center; font-weight: bold;">
-  <table>
-    <thead>
-      <tr>
-        <th><a href="https://nodejs.org/en" target="_blank"><img src="./img/Node.js.svg" alt="node.js" style="width:100px"></a></th>
-        <th><a href="https://expressjs.com/" target="_blank"><img src="./img/express.png" alt="express.js" style="width:100px"></a></th>
-        <th><a href="https://www.mongodb.com/" target="_blank"><img src="./img/mongodb.svg" alt="mongodb" style="width:100px"></a></th>
-        <th><a href="https://socket.io/" target="_blank"><img src="./img/socket.png" alt="socket" style="width:100px"></a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Node.js</td>
-        <td>Express.js</td>
-        <td>MongoDB</td>
-        <td>Socket</td>
-      </tr>
-    </tbody>
-  </table>
-  </div>
-  <div style="text-align: center; font-weight: bold;">
-  <table>
-    <thead>
-      <tr>
-        <th><a href="https://www.json.org/json-en.html" target="_blank"><img src="./img/json.svg" alt="json" style="width:100px"></a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>JSON</td>
-      </tr>
-    </tbody>
-  </table>
-  </div>
-  <br/>
-  
+
+## 🚀 Featured Projects
+
+### 🔹 Chat Application (MERN Stack)
+- Real-time private messaging with authentication
+- Persistent chat history and responsive user interface
+- Built with Socket.io, React.js, Node.js, and MongoDB
+
+### 🔹 Portfolio Website
+- Modern and clean personal portfolio using Next.js
+- Fully responsive layout for desktop and mobile
+- Performance and SEO optimized
+
+### 🔹 AI Powered Web App
+- AI-powered features for smarter user experiences
+- Fast, efficient, and user-focused workflow
+- Scalable backend and clean frontend architecture
+
 ---
-* <h3>👨🏽‍💻 &nbsp; Other Skills</h3>
-  <br/>
-  <div style="text-align: center; font-weight: bold;">
-  <table>
-    <thead>
-      <tr>
-        <th><a href="https://git-scm.com/" target="_blank"><img src="./img/git.svg" alt="git" style="width:100px"></a></th>
-        <th><a href="https://github.com/" target="_blank"><img src="./img/github.svg" alt="github" style="width:100px"></a></th>
-        <th><a href="https://www.microsoft.com/en-us/microsoft-365/excel?msockid=1c45b7354e6065323639a3fe4f616428" target="_blank"><img src="./img/excel.svg" alt="excel" style="width:100px"></a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>git</td>
-        <td>HitHub</td>
-        <td>MS Excel</td>
-      </tr>
-    </tbody>
-  </table>
-  </div>
- <br/>
- 
- ## 🌐 Connect With Me
- <p align="left">
-   <a href="mailto:tashrifmiyaji.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,html,css,tailwind,python,git,github&perline=6" alt="Tech stack of Tashrif Miyaji" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:tashrifmiyaji.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/tashrifmiyaji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://twitter.com/tashrifmiyaji" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/tashrifmiyaji" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-</p>
-
---- 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tashrifmiyaji&show_icons=true&theme=radical" alt="Tashrif's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tashrifmiyaji&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashrifmiyaji&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tashrifmiyaji&show_icons=true&theme=radical&cache_seconds=1800" 
+    alt="GitHub stats of Tashrif Miyaji showing commits, stars, and contributions"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tashrifmiyaji&theme=radical" alt="GitHub streak of Tashrif Miyaji" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tashrifmiyaji&layout=compact&theme=radical&cache_seconds=1800" 
+    alt="Top languages used by Tashrif Miyaji"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=tashrifmiyaji&theme=radical&no-frame=true&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,LongTimeUser" alt="GitHub trophies of Tashrif Miyaji" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tashrifmiyaji/tashrifmiyaji@output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tashrifmiyaji/tashrifmiyaji@output/snake.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/tashrifmiyaji/tashrifmiyaji@output/snake.svg" alt="GitHub contribution snake animation" />
+  </picture>
+</p>

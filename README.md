@@ -44,7 +44,7 @@ Consistency, problem-solving, and continuous improvement are the core principles
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,python,git,github&perline=6" alt="Tech stack of Tashrif Miyaji" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,markdown,css,tailwind,python,git,github&perline=6" alt="Tech stack of Tashrif Miyaji" />
 </p>
 
 ---

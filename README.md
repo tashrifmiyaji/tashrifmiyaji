@@ -1,5 +1,14 @@
+<p align="center">
+  <img src="./img/github_banner.png" alt="Tashrif Miyaji Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tashrif Miyaji</h1>
-<h3 align="center">🚀 MERN Stack & Next.js Developer</h3>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;TypeScript+Enthusiast;Building+Scalable+Web+Apps;Backend+Lover;Prisma+%26+PostgreSQL+Lover;Exploring+Cloud+Technologies;Building+SaaS+Products" alt="Typing SVG" /></a>
+
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tashrifmiyaji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for Tashrif Miyaji" />
@@ -9,14 +18,17 @@
 
 ### 👨‍💻 About Me
 
+
+
 - 💻 I build modern, scalable, and user-friendly web applications
 - ⚡ Focused on performance, clean architecture, and great UX
-- 🔧 Working mainly with React.js, Next.js, Node.js, Express.js, and MongoDB
-- 🤖 I also use AI tools to optimize workflow and ship faster
+- 🔧 Working mainly with React.js, Next.js, Node.js, Express.js, PostgreSQL, and Prisma
+- 🤖 I use AI tools to optimize workflows and boost productivity
+- 🌱 Currently learning Docker, AWS, and System Design
 - 💼 Open to freelance and remote collaboration opportunities
 
-I enjoy solving real-world problems with practical and impactful products.
-Consistency, problem-solving, and continuous improvement are the core principles of my work.
+I enjoy solving real-world problems by building practical and impactful software.
+Clean code, continuous learning, and delivering quality products are the core principles of my work.
 
 <br/>
 
@@ -44,7 +56,15 @@ Consistency, problem-solving, and continuous improvement are the core principles
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,markdown,css,tailwind,python,git,github&perline=6" alt="Tech stack of Tashrif Miyaji" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,redux,firebase,python,git,github&perline=6" alt="Tech stack of Tashrif Miyaji" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,docker,figma,vercel,netlify,render,cloudflare,npm,pnpm,bun,linux,githubactions&perline=7" alt="Tools & Platforms" />
 </p>
 
 ---

@@ -1,18 +1,19 @@
+<div align="center">
 <p align="center">
   <img src="./img/github_banner.png" alt="Tashrif Miyaji Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tashrif Miyaji</h1>
+<h1 align="center" >Hi 👋, I'm Tashrif Miyaji</h1>
 <h3 align="center">🚀 Full Stack Web Developer</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;TypeScript+Enthusiast;Building+Scalable+Web+Apps;Backend+Lover;Prisma+%26+PostgreSQL+Lover;Exploring+Cloud+Technologies;Building+SaaS+Products" alt="Typing SVG" /></a>
-
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tashrifmiyaji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for Tashrif Miyaji" />
 </p>
+</div>
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
